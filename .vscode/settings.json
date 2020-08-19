@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "eslint.format.enable": true,
+  "eslint.options": {},
+  "editor.tabSize": 2
+}
