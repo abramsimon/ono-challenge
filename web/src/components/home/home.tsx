@@ -1,5 +1,6 @@
 import React from 'react';
 import Header from '../header';
+import IngredientList from '../ingredient-list';
 import './home.css';
 
 const homeComponent = () => {
@@ -7,6 +8,7 @@ const homeComponent = () => {
     <div className="home">
       <div className="container">
         <Header />
+        <IngredientList />
       </div>
     </div>
   );
