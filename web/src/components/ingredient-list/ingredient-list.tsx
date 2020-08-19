@@ -20,12 +20,12 @@ const IngredientList = () => {
           name: result.name,
           image: result.image,
           holdingTemperature: result.holding_temperature,
-          hopper: '',
-          dispenseGrams: 0,
-          usedBy: '',
-          demandKg: 0,
-          densityKgM3: 0,
-          capacityL: 0,
+          hopper: result.hopper,
+          dispenseGrams: result.dispense_grams,
+          usedBy: result.used_by,
+          demandKg: result.demmand_kg,
+          densityKgM3: result['density_kgm^3'],
+          capacityL: result.capacity_L,
         });
       }
 
@@ -35,6 +35,11 @@ const IngredientList = () => {
 
   const onVoteButtonClick = (ingredient: Ingredient) => {
     // send the vote to the server
+    axios
+      .put(`http://localhost:8080/api/ingredients/${ingredient.name}/vote`)
+      .then((results) => {
+        console.log('put ', results.data);
+      });
   };
 
   return (
@@ -54,6 +59,13 @@ const IngredientList = () => {
               <td>
                 <h3>{ingredient.name}</h3>
               </td>
+              <td>{ingredient.holdingTemperature}</td>
+              <td>{ingredient.hopper}</td>
+              <td>{ingredient.dispenseGrams}</td>
+              <td>{ingredient.usedBy}</td>
+              <td>{ingredient.demandKg}</td>
+              <td>{ingredient.densityKgM3}</td>
+              <td>{ingredient.capacityL}</td>
               <td>
                 <button onClick={() => onVoteButtonClick(ingredient)}>
                   Vote!

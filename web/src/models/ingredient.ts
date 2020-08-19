@@ -1,7 +1,7 @@
 export interface Ingredient {
   name: string;
   image: string;
-  holdingTemperature: number;
+  holdingTemperature: string;
   hopper: string;
   dispenseGrams: number;
   usedBy: string;
@@ -15,7 +15,7 @@ export const initialIngredients: Ingredient[] = [
     name: 'Roasted chicken',
     image:
       'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3HWyvSSc2uPJ1PxMEKcSSkidwE5H6YyjVFNjEca9vQVO54TC9&s',
-    holdingTemperature: 140,
+    holdingTemperature: '140',
     hopper: 'auger feeder',
     dispenseGrams: 80,
     usedBy: 'Harvest Bowl',
@@ -27,7 +27,7 @@ export const initialIngredients: Ingredient[] = [
     name: 'sweet potatoes',
     image:
       'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/180802-delish-9x13-bookazine-00360-1533324368.jpg',
-    holdingTemperature: 140,
+    holdingTemperature: '140',
     hopper: 'vibratory pan',
     dispenseGrams: 39,
     usedBy: 'Harvest Bowl',
