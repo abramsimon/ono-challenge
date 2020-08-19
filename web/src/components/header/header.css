@@ -1,0 +1,14 @@
+header {
+  display: flex;
+}
+
+header h1 {
+  flex: 1;
+}
+
+.logo {
+  transition: all 1s ease-in-out;
+}
+.logo:hover {
+  transform: scale(1.25);
+}
