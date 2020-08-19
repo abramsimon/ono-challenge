@@ -1,0 +1,49 @@
+name,image,holding_temperature,hopper,dispense_grams,used_by,demmand_kg,density_kgm^3,capacity_L
+Roasted chicken,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3HWyvSSc2uPJ1PxMEKcSSkidwE5H6YyjVFNjEca9vQVO54TC9&s,140,auger feeder,80,Harvest Bowl,27.2,1121,24.3
+sweet potatoes,https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/180802-delish-9x13-bookazine-00360-1533324368.jpg,140,vibratory pan,39,Harvest Bowl,7.1175,270,26.4
+apples,"https://res.cloudinary.com/orthodox-union/image/fetch/c_fill,f_auto/https://oukosher.org/content/uploads/2007/09/Chopped-Apples.png",33,belt feeder,29,Harvest Bowl,3.9875,513,7.8
+Goat cheese,https://www.thespruceeats.com/thmb/UnZpCP9FrnTqQhpnbCbezGidG0c=/1500x844/smart/filters:no_upscale()/Goat-Cheese-Culture1500-56a125c95f9b58b7d0bc791b.jpg,33,vibratory pan,33,Harvest Bowl,4.5375,481,9.4
+toasted almonds,https://shewearsmanyhats.com/wp-content/uploads/2015/03/toasted-almonds-2.jpg,ambient,vibratory pan,14,Harvest Bowl,2.065,481,4.3
+organic wild rice,https://i2.wp.com/pipingpotcurry.com/wp-content/uploads/2020/02/Wild-Rice-Instant-Pot-Piping-Pot-Curry-copy.jpg,140,auger feeder,95,Harvest Bowl,14.4875,866,16.7
+shredded kale,https://www.onceuponachef.com/images/2014/06/chopped-kale.jpg,33,vibratory pan,85,Harvest Bowl,27.625,368,75.1
+balsamic vinegar,https://www.acouplecooks.com/wp-content/uploads/2019/02/Best-Balsamic-Vinaigrette-015.jpg,ambient,piston filler,15,Harvest Bowl,2.0625,994,2.1
+tomatoes,https://www.seriouseats.com/images/2016/10/20161003-peeling-tomato-primary.jpg,33,vibratory pan,80,Kale Cesar,13.455,481,28
+Parmesan crisps,https://dinnerthendessert.com/wp-content/uploads/2019/02/Parmesan-Crisps-2.jpg,ambient,vibratory pan,46,Kale Cesar,2.205,150,14.7
+chopped romaine,https://cdn.cnn.com/cnnnext/dam/assets/180413141128-chopped-romaine-lettuce-super-tease.jpg,33,vibratory pan,14,Kale Cesar,30.375,368,82.5
+fresh lime squeeze,https://cdn11.bigcommerce.com/s-ek50668lzs/images/stencil/1280x1280/products/1515/1780/4632E-lg__71320.1577206802.jpg?c=1?imbypass=on,33,auger feeder,85,Kale Cesar,3.1875,641,5
+spicy cashew dressing,https://www.simplyscratch.com/wp-content/uploads/2018/02/Creamy-Cashew-Dressing-l-SimplyScratch.com-9-735x1101.jpg,33,piston filler,150,Kale Cesar,3.975,994,4
+Sesame tofu,https://www.tablefortwoblog.com/wp-content/uploads/2018/09/pan-fried-spicy-garlic-tofu-recipe-photos-tablefortwoblog-1.jpg,140,auger feeder,15,Kale Cesar,1.155,1065,1.1
+Portobello mix,https://i2.wp.com/carolinescooking.com/wp-content/uploads/2019/08/baked-portobello-mushrooms-photo.jpg,140,vibratory pan,30,Kale Cesar,0.975,368,2.6
+raw beets,"https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2Farchive%2F778503dd34e46bbf07676904012f4bae1ee4a0ce",33,vibratory pan,33,Shroomami,1,673,1.5
+cucumbers,https://www.simplyrecipes.com/wp-content/uploads/2009/07/cucmber-salad-horiz-a-1800.jpg,33,auger feeder,65,Shroomami,2.4,641,3.7
+basil,https://susanstable.com/wp-content/uploads/chopped-basil.jpg,33,auger feeder,40,Shroomami,0.315,179,1.8
+spicy sunflower seeds,https://nuts.com/images/rackcdn/ed910ae2d60f0d25bcb8-80550f96b5feb12604f4f720bfefb46d.ssl.cf1.rackcdn.com/7016_Roasted+Sunflow-k4IcxKgW-large.jpg,ambient,vibratory pan,40,Shroomami,0.455,657,0.7
+miso sesame ginger vinaigrette,https://www.bowlofdelicious.com/wp-content/uploads/2014/03/recipe-square-Miso-Sesame-Ginger-Dressing-2.jpg,33,piston filler,7,Shroomami,0.45,994,0.5
+spicy broccoli,https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcdn-image.myrecipes.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedium_2x%2Fpublic%2Fimage%2Frecipes%2Fck%2F11%2Fspicy-chile-garlic-broccoli-ck-x.jpg%3Fitok%3DxxroA0AB&w=450&c=sc&poi=face&q=85,33,auger feeder,13,Shroomami,3.3,673,4.9
+Parmesan,https://previews.123rf.com/images/alexbaidj/alexbaidj1608/alexbaidj160800019/62955780-piece-and-grated-parmigiano-reggiano-or-parmesan-cheese-on-wwood-board-on-checkered-napkin-grated-pa.jpg,33,vibratory pan,95,Shroomami,1.26,338,3.7
+Za'atar Bread Crumbs,https://cdn.shopify.com/s/files/1/0536/9517/products/Zaatar.JPG?v=1594928249,ambient,vibratory pan,85,Shroomami,0.9,48,18.8
+warm quinoa,https://cdn.loveandlemons.com/wp-content/uploads/2019/09/quinoa.jpg,140,auger feeder,30,Shroomami,11,782,14.1
+organic baby spinach,https://goodeggs1.imgix.net/product_photos/PJRFs9bcRDoDTAUYsZ6c_2019_0114_JayLeaf_BabySpinach_0.5lb%20copy%20%2808ce9c5ddae19e2ae602c1302d108e41704e8498%29%20%281%29.jpg?w=840&h=525&fm=jpg&q=80&fit=crop,33,vibratory pan,80,Chicken Pesto Parm,9.975,368,27.1
+sweetgreen hot sauce,https://thumbor.thedailymeal.com/cOGHS0JySciQtGheeAkp-JQU_bM=/870x565/https://www.thedailymeal.com/sites/default/files/2015/03/10/hot%20sauce-shutterstock.jpg,33,piston filler,33,Chicken Pesto Parm,2.8,994,2.8
+pesto vinaigrette,https://www.foodiewithfamily.com/wp-content/uploads/2050/07/3-ingredient-pesto-vinaigrette-square.jpg,33,piston filler,46,Chicken Pesto Parm,1.35,994,1.4
+hot chickpeas,https://feelgoodfoodie.net/wp-content/uploads/2020/02/how-to-cook-chickpeas-26-500x500.jpg,140,auger feeder,14,Chicken Pesto Parm,1.6,881,1.8
+organic carrots,https://ardo.com/files/attachments/.10615/w1440h700q85_WSGb.jpg,33,vibratory pan,15,Chicken Pesto Parm,1.38,673,2.1
+shredded cabbage,https://previews.123rf.com/images/yasuhiroamano/yasuhiroamano1505/yasuhiroamano150500083/40322834-shredded-cabbage.jpg,33,vibratory pan,100,Chicken Pesto Parm,1.125,43,26.2
+raisins,https://calories-info.com/site/assets/files/3097/raisins.650x0.jpg,33,vibratory pan,105,Chicken Pesto Parm,0.14,612,0.2
+cilantro,https://i0.wp.com/post.healthline.com/wp-content/uploads/2020/08/732x549_Cilantro_Allergy-1-732x549.jpg?w=756&h=567,33,auger feeder,28,Chicken Pesto Parm,0.425,68,6.3
+curry yogurt dressing,"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/ginger-curry-yogurt-1563914361.jpg?crop=0.610xw:0.609xh;0.268xw,0.311xh&resize=480:*",33,piston filler,30,Chicken Pesto Parm,0.3,994,0.3
+Steelhead,https://www.olgasflavorfactory.com/wp-content/uploads/2012/12/Baked-Steelhead-Trout-Fillet-1-2-copy.jpg,140,belt feeder,80,Curry Chickpea Bowl,1.2,529,2.3
+tortilla chips,https://www.washingtonpost.com/resizer/fUVPRgoxn62OooqVrlSRjseNvrE=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G2WPBKSY2U5WLCQPVE7AINPWRI.jpg,ambient,vibratory pan,80,Curry Chickpea Bowl,1.44,112,12.9
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
