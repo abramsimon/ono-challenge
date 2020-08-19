@@ -31,11 +31,18 @@ const IngredientList = () => {
   return (
     <div>
       <h2>Ingredients</h2>
-      <ul>
+      <table>
         {ingredients.map((ingredient) => (
-          <li>{ingredient.name}</li>
+          <tr>
+            <td>
+              <img src={ingredient.image} className="ingredient-photo" />
+            </td>
+            <td>
+              <h3>{ingredient.name}</h3>
+            </td>
+          </tr>
         ))}
-      </ul>
+      </table>
     </div>
   );
 };
