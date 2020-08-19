@@ -1,7 +1,7 @@
 const cors = require("cors");
 const express = require("express");
 
-const { getIngredients } = require("./routes/ingredients");
+const { getIngredients, putVote } = require("./routes/ingredients");
 
 var app = express();
 app.use(express.json());
@@ -20,6 +20,7 @@ router.get("/", function (req, res) {
   });
 });
 router.get("/ingredients", getIngredients);
+router.put("/ingredients/:name/vote", putVote);
 
 app.use("/api", router);
 
