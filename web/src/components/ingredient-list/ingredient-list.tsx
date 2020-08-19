@@ -38,6 +38,7 @@ const IngredientList = () => {
     axios
       .put(`http://localhost:8080/api/ingredients/${ingredient.name}/vote`)
       .then((results) => {
+        // the server doesn't do anything with the votes yet, so we're just logging the result here
         console.log('put ', results.data);
       });
   };
