@@ -29,3 +29,5 @@ The server was created from scratch, using Express as the api layer. Use the fol
 Run: `npm start`
 
 The api will be available at [localhost:8080/api](http://localhost:8080/api)
+
+Cool.
